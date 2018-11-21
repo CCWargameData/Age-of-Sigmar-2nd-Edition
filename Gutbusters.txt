@@ -1,0 +1,144 @@
+{
+  "games" : [ {
+    "gameName" : "Warhammer: Age Of Sigmar",
+    "armies" : [ {
+      "listOfRestrictions" : null,
+      "listOfUnits" : [ {
+        "unitName" : "Grot Scraplauncher",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Artillery",
+        "unitCost" : 120,
+        "unitID" : 570,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
+      }, {
+        "unitName" : "Ironblaster",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Artillery",
+        "unitCost" : 120,
+        "unitID" : 571,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
+      }, {
+        "unitName" : "[3]Ogors",
+        "listOfOptions" : [ {
+          "optionCost" : 120,
+          "listOfRestrictions" : null,
+          "optionID" : 579,
+          "optionName" : "3 Additional Ogors",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
+        }, {
+          "optionCost" : 280,
+          "listOfRestrictions" : null,
+          "optionID" : 580,
+          "optionName" : "9 Additional Ogors (max)",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Battleline",
+        "unitCost" : 120,
+        "unitID" : 572,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
+      }, {
+        "unitName" : "Butcher",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Leader",
+        "unitCost" : 140,
+        "unitID" : 573,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
+      }, {
+        "unitName" : "Tyrant",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Leader",
+        "unitCost" : 160,
+        "unitID" : 574,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
+      }, {
+        "unitName" : "Gorgers",
+        "listOfOptions" : [ {
+          "optionCost" : 60,
+          "listOfRestrictions" : null,
+          "optionID" : 581,
+          "optionName" : "Additional Gorger",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Other",
+        "unitCost" : 60,
+        "unitID" : 575,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
+      }, {
+        "unitName" : "[20]Grots",
+        "listOfOptions" : [ {
+          "optionCost" : 100,
+          "listOfRestrictions" : null,
+          "optionID" : 582,
+          "optionName" : "20 Additional Grots",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
+        }, {
+          "optionCost" : 170,
+          "listOfRestrictions" : null,
+          "optionID" : 583,
+          "optionName" : "40 Additional Grots (max)",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Other",
+        "unitCost" : 100,
+        "unitID" : 576,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
+      }, {
+        "unitName" : "[3]Ironguts",
+        "listOfOptions" : [ {
+          "optionCost" : 180,
+          "listOfRestrictions" : null,
+          "optionID" : 584,
+          "optionName" : "3 Additional Ironguts",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Other",
+        "unitCost" : 180,
+        "unitID" : 577,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
+      }, {
+        "unitName" : "[3]Leadbelchers",
+        "listOfOptions" : [ {
+          "optionCost" : 140,
+          "listOfRestrictions" : null,
+          "optionID" : 585,
+          "optionName" : "3 Additional Leadbelchers",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Other",
+        "unitCost" : 140,
+        "unitID" : 578,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
+      } ],
+      "listOfEquipmentOptions" : null,
+      "armyName" : "Gutbusters",
+      "armyCategories" : [ ]
+    } ],
+    "gameCategories" : [ "Leader", "Battleline", "Artillery", "Warscroll Battalion", "Behemoth", "Leader & Behemoth", "Other" ],
+    "listOfCurrencies" : [ ]
+  } ]
+}

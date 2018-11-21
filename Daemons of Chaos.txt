@@ -1,0 +1,64 @@
+{
+  "games" : [ {
+    "gameName" : "Warhammer: Age Of Sigmar",
+    "armies" : [ {
+      "listOfRestrictions" : null,
+      "listOfUnits" : [ {
+        "unitName" : "Soul Grinder",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Behemoth",
+        "unitCost" : 260,
+        "unitID" : 166,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
+      }, {
+        "unitName" : "Be'lakor, Chaos Daemon Prince",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Leader & Behemoth",
+        "unitCost" : 280,
+        "unitID" : 168,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Daemon Prince",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Leader & Behemoth",
+        "unitCost" : 160,
+        "unitID" : 169,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
+      }, {
+        "unitName" : "[5]Furies",
+        "listOfOptions" : [ {
+          "optionCost" : 60,
+          "listOfRestrictions" : null,
+          "optionID" : 171,
+          "optionName" : "5 Additional Furies",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
+        }, {
+          "optionCost" : 260,
+          "listOfRestrictions" : null,
+          "optionID" : 172,
+          "optionName" : "25 Additional Furies (max)",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Other",
+        "unitCost" : 60,
+        "unitID" : 170,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
+      } ],
+      "listOfEquipmentOptions" : null,
+      "armyName" : "Daemons of Chaos",
+      "armyCategories" : [ ]
+    } ],
+    "gameCategories" : [ "Leader", "Battleline", "Artillery", "Warscroll Battalion", "Behemoth", "Leader & Behemoth", "Other" ],
+    "listOfCurrencies" : [ ]
+  } ]
+}

@@ -1,0 +1,59 @@
+{
+  "games" : [ {
+    "gameName" : "Warhammer: Age Of Sigmar",
+    "armies" : [ {
+      "listOfRestrictions" : null,
+      "listOfUnits" : [ {
+        "unitName" : "Celestial Hurricanum",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Behemoth",
+        "unitCost" : 380,
+        "unitID" : 637,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
+      }, {
+        "unitName" : "Luminark of Hysh",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Behemoth",
+        "unitCost" : 240,
+        "unitID" : 638,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
+      }, {
+        "unitName" : "Battlemage",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Leader",
+        "unitCost" : 120,
+        "unitID" : 639,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
+      }, {
+        "unitName" : "Battlemage on Griffon",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Leader & Behemoth",
+        "unitCost" : 240,
+        "unitID" : 640,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
+      }, {
+        "unitName" : "War Council",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warscroll Battalion",
+        "unitCost" : 180,
+        "unitID" : 641,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
+      } ],
+      "listOfEquipmentOptions" : null,
+      "armyName" : "Collegiate Arcane",
+      "armyCategories" : [ ]
+    } ],
+    "gameCategories" : [ "Leader", "Battleline", "Artillery", "Warscroll Battalion", "Behemoth", "Leader & Behemoth", "Other" ],
+    "listOfCurrencies" : [ ]
+  } ]
+}

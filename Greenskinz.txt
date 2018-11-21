@@ -1,0 +1,103 @@
+{
+  "games" : [ {
+    "gameName" : "Warhammer: Age Of Sigmar",
+    "armies" : [ {
+      "listOfRestrictions" : null,
+      "listOfUnits" : [ {
+        "unitName" : "[10]Orruks",
+        "listOfOptions" : [ {
+          "optionCost" : 80,
+          "listOfRestrictions" : null,
+          "optionID" : 565,
+          "optionName" : "10 Additional Orruks",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
+        }, {
+          "optionCost" : 200,
+          "listOfRestrictions" : null,
+          "optionID" : 566,
+          "optionName" : "30 Additional Orruks (max)",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Battleline",
+        "unitCost" : 80,
+        "unitID" : 559,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
+      }, {
+        "unitName" : "Orruk Great Shaman",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Leader",
+        "unitCost" : 120,
+        "unitID" : 560,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
+      }, {
+        "unitName" : "Orruk Warboss",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Leader",
+        "unitCost" : 140,
+        "unitID" : 561,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
+      }, {
+        "unitName" : "Orruk Warboss on Wyvern",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Leader & Behemoth",
+        "unitCost" : 240,
+        "unitID" : 562,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
+      }, {
+        "unitName" : "[5]Orruk Boarboys",
+        "listOfOptions" : [ {
+          "optionCost" : 100,
+          "listOfRestrictions" : null,
+          "optionID" : 567,
+          "optionName" : "5 Additional Orruk Boarboys",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
+        }, {
+          "optionCost" : 260,
+          "listOfRestrictions" : null,
+          "optionID" : 568,
+          "optionName" : "15 Additional Orruk Boarboys (max)",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Other",
+        "unitCost" : 100,
+        "unitID" : 563,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
+      }, {
+        "unitName" : "Orruk Boar Chariots",
+        "listOfOptions" : [ {
+          "optionCost" : 80,
+          "listOfRestrictions" : null,
+          "optionID" : 569,
+          "optionName" : "Additional Orruk Boar Chariot",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Other",
+        "unitCost" : 80,
+        "unitID" : 564,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
+      } ],
+      "listOfEquipmentOptions" : null,
+      "armyName" : "Greenskinz",
+      "armyCategories" : [ ]
+    } ],
+    "gameCategories" : [ "Leader", "Battleline", "Artillery", "Warscroll Battalion", "Behemoth", "Leader & Behemoth", "Other" ],
+    "listOfCurrencies" : [ ]
+  } ]
+}

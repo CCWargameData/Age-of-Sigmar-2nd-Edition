@@ -1,0 +1,82 @@
+{
+  "games" : [ {
+    "gameName" : "Warhammer: Age Of Sigmar",
+    "armies" : [ {
+      "listOfRestrictions" : null,
+      "listOfUnits" : [ {
+        "unitName" : "Excelsior Warpriest",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Leader",
+        "unitCost" : 80,
+        "unitID" : 692,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
+      }, {
+        "unitName" : "Warrior Priest",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Leader",
+        "unitCost" : 80,
+        "unitID" : 693,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
+      }, {
+        "unitName" : "Witch Hunter",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Leader",
+        "unitCost" : 50,
+        "unitID" : 694,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
+      }, {
+        "unitName" : "War Altar of Sigmar",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Leader & Behemoth",
+        "unitCost" : 250,
+        "unitID" : 695,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "[10]Flagellants",
+        "listOfOptions" : [ {
+          "optionCost" : 80,
+          "listOfRestrictions" : null,
+          "optionID" : 698,
+          "optionName" : "10 Additional Flagellants",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
+        }, {
+          "optionCost" : 180,
+          "listOfRestrictions" : null,
+          "optionID" : 699,
+          "optionName" : "30 Additional Flagellants (max)",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Other",
+        "unitCost" : 80,
+        "unitID" : 696,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
+      }, {
+        "unitName" : "Pilgrimage of Wrath",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warscroll Battalion",
+        "unitCost" : 140,
+        "unitID" : 697,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
+      } ],
+      "listOfEquipmentOptions" : null,
+      "armyName" : "Devoted of Sigmar",
+      "armyCategories" : [ ]
+    } ],
+    "gameCategories" : [ "Leader", "Battleline", "Artillery", "Warscroll Battalion", "Behemoth", "Leader & Behemoth", "Other" ],
+    "listOfCurrencies" : [ ]
+  } ]
+}

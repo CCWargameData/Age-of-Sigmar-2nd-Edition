@@ -1,0 +1,190 @@
+{
+  "games" : [ {
+    "gameName" : "Warhammer: Age Of Sigmar",
+    "armies" : [ {
+      "listOfRestrictions" : null,
+      "listOfUnits" : [ {
+        "unitName" : "[10]Warriors",
+        "listOfOptions" : [ {
+          "optionCost" : 80,
+          "listOfRestrictions" : null,
+          "optionID" : 712,
+          "optionName" : "10 Additional Warriors",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
+        }, {
+          "optionCost" : 200,
+          "listOfRestrictions" : null,
+          "optionID" : 713,
+          "optionName" : "30 Additional Warriors (max)",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Battleline",
+        "unitCost" : 80,
+        "unitID" : 700,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
+      }, {
+        "unitName" : "[10]Longbeards",
+        "listOfOptions" : [ {
+          "optionCost" : 100,
+          "listOfRestrictions" : null,
+          "optionID" : 714,
+          "optionName" : "10 Additional Longbeards",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
+        }, {
+          "optionCost" : 170,
+          "listOfRestrictions" : null,
+          "optionID" : 715,
+          "optionName" : "20 Additional Longbeards (max)",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Battleline",
+        "unitCost" : 100,
+        "unitID" : 701,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
+      }, {
+        "unitName" : "Runelord",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Leader",
+        "unitCost" : 100,
+        "unitID" : 702,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
+      }, {
+        "unitName" : "Unforged",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Leader",
+        "unitCost" : 100,
+        "unitID" : 703,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
+      }, {
+        "unitName" : "Warden King",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Leader",
+        "unitCost" : 120,
+        "unitID" : 704,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
+      }, {
+        "unitName" : "[10]Hammerers",
+        "listOfOptions" : [ {
+          "optionCost" : 160,
+          "listOfRestrictions" : null,
+          "optionID" : 716,
+          "optionName" : "10 Additional Hammerers",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
+        }, {
+          "optionCost" : 260,
+          "listOfRestrictions" : null,
+          "optionID" : 721,
+          "optionName" : "20 Additional Hammerers (max)",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Other",
+        "unitCost" : 160,
+        "unitID" : 705,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
+      }, {
+        "unitName" : "[10]Ironbreakers",
+        "listOfOptions" : [ {
+          "optionCost" : 140,
+          "listOfRestrictions" : null,
+          "optionID" : 717,
+          "optionName" : "10 Additional Ironbreakers",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
+        }, {
+          "optionCost" : 220,
+          "listOfRestrictions" : null,
+          "optionID" : 722,
+          "optionName" : "20 Additional Ironbreakers (max)",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Other",
+        "unitCost" : 140,
+        "unitID" : 706,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
+      }, {
+        "unitName" : "[10]Irondrakes",
+        "listOfOptions" : [ {
+          "optionCost" : 180,
+          "listOfRestrictions" : null,
+          "optionID" : 718,
+          "optionName" : "10 Additional Irondrakes",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Other",
+        "unitCost" : 180,
+        "unitID" : 707,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
+      }, {
+        "unitName" : "[10]Quarrellers",
+        "listOfOptions" : [ {
+          "optionCost" : 120,
+          "listOfRestrictions" : null,
+          "optionID" : 719,
+          "optionName" : "10 Additional Quarrellers",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Other",
+        "unitCost" : 120,
+        "unitID" : 708,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
+      }, {
+        "unitName" : "[10]Thunderers",
+        "listOfOptions" : [ {
+          "optionCost" : 120,
+          "listOfRestrictions" : null,
+          "optionID" : 720,
+          "optionName" : "10 Additional Thunderers",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Other",
+        "unitCost" : 120,
+        "unitID" : 709,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
+      }, {
+        "unitName" : "Grudgebound War Throng",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warscroll Battalion",
+        "unitCost" : 170,
+        "unitID" : 710,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
+      } ],
+      "listOfEquipmentOptions" : null,
+      "armyName" : "Dispossessed",
+      "armyCategories" : [ ]
+    } ],
+    "gameCategories" : [ "Leader", "Battleline", "Artillery", "Warscroll Battalion", "Behemoth", "Leader & Behemoth", "Other" ],
+    "listOfCurrencies" : [ ]
+  } ]
+}

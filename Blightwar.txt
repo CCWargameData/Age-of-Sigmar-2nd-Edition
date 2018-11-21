@@ -1,0 +1,185 @@
+{
+  "games" : [ {
+    "gameName" : "Warhammer: Age Of Sigmar",
+    "armies" : [ {
+      "listOfRestrictions" : null,
+      "listOfUnits" : [ {
+        "unitName" : "[3]Aetherwings",
+        "listOfOptions" : [ {
+          "optionCost" : 50,
+          "listOfRestrictions" : null,
+          "optionID" : 1088,
+          "optionName" : "3 Additional Aetherwings",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Other",
+        "unitCost" : 50,
+        "unitID" : 1076,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
+      }, {
+        "unitName" : "Horticulous Slimux",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Leader",
+        "unitCost" : 220,
+        "unitID" : 1077,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
+      }, {
+        "unitName" : "Neave Blacktalon",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Leader",
+        "unitCost" : 120,
+        "unitID" : 1078,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
+      }, {
+        "unitName" : "[3]Nurglings",
+        "listOfOptions" : [ {
+          "optionCost" : 100,
+          "listOfRestrictions" : null,
+          "optionID" : 1089,
+          "optionName" : "3 Additional Nurglings",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Other",
+        "unitCost" : 100,
+        "unitID" : 1079,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
+      }, {
+        "unitName" : "[3]Plague Drones",
+        "listOfOptions" : [ {
+          "optionCost" : 200,
+          "listOfRestrictions" : null,
+          "optionID" : 1090,
+          "optionName" : "3 Additional Plague Drones",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Other",
+        "unitCost" : 200,
+        "unitID" : 1080,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
+      }, {
+        "unitName" : "[10]Plaguebearers",
+        "listOfOptions" : [ {
+          "optionCost" : 120,
+          "listOfRestrictions" : null,
+          "optionID" : 1091,
+          "optionName" : "10 Additional Plague Bearers",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
+        }, {
+          "optionCost" : 120,
+          "listOfRestrictions" : null,
+          "optionID" : 1092,
+          "optionName" : "20 Additional Plague Bearers (max)",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Battleline",
+        "unitCost" : 120,
+        "unitID" : 1081,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
+      }, {
+        "unitName" : "[5]Vanguard Hunters",
+        "listOfOptions" : [ {
+          "optionCost" : 120,
+          "listOfRestrictions" : null,
+          "optionID" : 1093,
+          "optionName" : "5 Additional Vanguard-Hunters",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Other",
+        "unitCost" : 120,
+        "unitID" : 1082,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
+      }, {
+        "unitName" : "[3]Vanguard-Palladors",
+        "listOfOptions" : [ {
+          "optionCost" : 200,
+          "listOfRestrictions" : null,
+          "optionID" : 1094,
+          "optionName" : "3 Additional Vanguard-Palladors",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Other",
+        "unitCost" : 200,
+        "unitID" : 1083,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
+      }, {
+        "unitName" : "[3]Vanguard-Raptors with Hurricane Crossbows",
+        "listOfOptions" : [ {
+          "optionCost" : 140,
+          "listOfRestrictions" : null,
+          "optionID" : 1095,
+          "optionName" : "3 Additional Vanguard-Raptors with Hurricane Crossbows",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Other",
+        "unitCost" : 140,
+        "unitID" : 1084,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
+      }, {
+        "unitName" : "[3]Vanguard-Raptors with Longstrike Crossbows",
+        "listOfOptions" : [ {
+          "optionCost" : 180,
+          "listOfRestrictions" : null,
+          "optionID" : 1096,
+          "optionName" : "3 Additional Vanguard-Raptors with Longstrike Crossbows",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Other",
+        "unitCost" : 180,
+        "unitID" : 1085,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
+      }, {
+        "unitName" : "Blacktalon's Shadowhammers",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warscroll Battalion",
+        "unitCost" : 160,
+        "unitID" : 1086,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
+      }, {
+        "unitName" : "Fecund Rituculturalists",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warscroll Battalion",
+        "unitCost" : 180,
+        "unitID" : 1087,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
+      } ],
+      "listOfEquipmentOptions" : null,
+      "armyName" : "Blightwar",
+      "armyCategories" : [ ]
+    } ],
+    "gameCategories" : [ "Leader", "Battleline", "Artillery", "Warscroll Battalion", "Behemoth", "Leader & Behemoth", "Other" ],
+    "listOfCurrencies" : [ ]
+  } ]
+}

@@ -1,0 +1,160 @@
+{
+  "games" : [ {
+    "gameName" : "Warhammer: Age Of Sigmar",
+    "armies" : [ {
+      "listOfRestrictions" : null,
+      "listOfUnits" : [ {
+        "unitName" : "Doom Diver Catapult",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Artillery",
+        "unitCost" : 120,
+        "unitID" : 541,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
+      }, {
+        "unitName" : "Grot Rock Lobber",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Artillery",
+        "unitCost" : 100,
+        "unitID" : 542,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
+      }, {
+        "unitName" : "Grot Spear Chukka",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Artillery",
+        "unitCost" : 120,
+        "unitID" : 543,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
+      }, {
+        "unitName" : "[20]Grots",
+        "listOfOptions" : [ {
+          "optionCost" : 100,
+          "listOfRestrictions" : null,
+          "optionID" : 551,
+          "optionName" : "20 Additional Grots",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
+        }, {
+          "optionCost" : 170,
+          "listOfRestrictions" : null,
+          "optionID" : 552,
+          "optionName" : "40 Additional Grots (max)",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Battleline",
+        "unitCost" : 100,
+        "unitID" : 544,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
+      }, {
+        "unitName" : "Grot Shaman",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Leader",
+        "unitCost" : 80,
+        "unitID" : 545,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
+      }, {
+        "unitName" : "Grot Wolf Chariots",
+        "listOfOptions" : [ {
+          "optionCost" : 40,
+          "listOfRestrictions" : null,
+          "optionID" : 553,
+          "optionName" : "Additional Wolf Grot Chariot",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Other",
+        "unitCost" : 40,
+        "unitID" : 546,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
+      }, {
+        "unitName" : "[5]Grot Wolf Riders",
+        "listOfOptions" : [ {
+          "optionCost" : 90,
+          "listOfRestrictions" : null,
+          "optionID" : 554,
+          "optionName" : "5 Additional Grot Wold Riders",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
+        }, {
+          "optionCost" : 390,
+          "listOfRestrictions" : null,
+          "optionID" : 555,
+          "optionName" : "25 Additional Grot Wold Riders (max)",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Other",
+        "unitCost" : 90,
+        "unitID" : 547,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
+      }, {
+        "unitName" : "[3]Nasty Skulkers",
+        "listOfOptions" : [ {
+          "optionCost" : 40,
+          "listOfRestrictions" : null,
+          "optionID" : 556,
+          "optionName" : "3 Additional Nasty Skulkers",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Other",
+        "unitCost" : 40,
+        "unitID" : 548,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Snotling Pump Wagons",
+        "listOfOptions" : [ {
+          "optionCost" : 60,
+          "listOfRestrictions" : null,
+          "optionID" : 557,
+          "optionName" : "Additional Snotling Pump Wagon",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Other",
+        "unitCost" : 60,
+        "unitID" : 549,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
+      }, {
+        "unitName" : "[2]Snotlings",
+        "listOfOptions" : [ {
+          "optionCost" : 40,
+          "listOfRestrictions" : null,
+          "optionID" : 558,
+          "optionName" : "2 Additional Snotlings",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Other",
+        "unitCost" : 40,
+        "unitID" : 550,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
+      } ],
+      "listOfEquipmentOptions" : null,
+      "armyName" : "Gitmob Grots",
+      "armyCategories" : [ ]
+    } ],
+    "gameCategories" : [ "Leader", "Battleline", "Artillery", "Warscroll Battalion", "Behemoth", "Leader & Behemoth", "Other" ],
+    "listOfCurrencies" : [ ]
+  } ]
+}
