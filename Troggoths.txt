@@ -6,50 +6,56 @@
       "listOfUnits" : [ {
         "unitName" : "[3]Fellwater Troggoths",
         "listOfOptions" : [ {
-          "optionCost" : 160,
+          "optionCost" : 160.0,
           "listOfRestrictions" : null,
           "optionID" : 632,
           "optionName" : "3 Additional Fellwater Troggoths",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Other",
-        "unitCost" : 160,
+        "unitCost" : 160.0,
         "unitID" : 629,
         "autoAddDictionary" : { },
+        "startingModels" : 3,
         "listOfCurrencies" : null
       }, {
         "unitName" : "[3]Rockgut Troggoths",
         "listOfOptions" : [ {
-          "optionCost" : 160,
+          "optionCost" : 160.0,
           "listOfRestrictions" : null,
           "optionID" : 633,
           "optionName" : "3 Additional Rockgut Troggoths",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Other",
-        "unitCost" : 160,
+        "unitCost" : 160.0,
         "unitID" : 630,
         "autoAddDictionary" : { },
+        "startingModels" : 3,
         "listOfCurrencies" : null
       }, {
         "unitName" : "[3]Sourbreath Troggoths",
         "listOfOptions" : [ {
-          "optionCost" : 160,
+          "optionCost" : 160.0,
           "listOfRestrictions" : null,
           "optionID" : 634,
           "optionName" : "3 Additional Sourbreath Troggoths",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Other",
-        "unitCost" : 160,
+        "unitCost" : 160.0,
         "unitID" : 631,
         "autoAddDictionary" : { },
+        "startingModels" : 3,
         "listOfCurrencies" : null
       } ],
       "listOfEquipmentOptions" : null,
@@ -57,6 +63,7 @@
       "armyCategories" : [ ]
     } ],
     "gameCategories" : [ "Leader", "Battleline", "Artillery", "Warscroll Battalion", "Behemoth", "Leader & Behemoth", "Other" ],
+    "listOfEquipmentOptions" : null,
     "listOfCurrencies" : [ ]
   } ]
 }

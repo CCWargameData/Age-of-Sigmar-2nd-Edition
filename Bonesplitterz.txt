@@ -6,229 +6,256 @@
       "listOfUnits" : [ {
         "unitName" : "[10]Savage Orruks",
         "listOfOptions" : [ {
-          "optionCost" : 120,
+          "optionCost" : 120.0,
           "listOfRestrictions" : null,
           "optionID" : 532,
           "optionName" : "10 Additional Savage Orruks",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 180,
+          "optionCost" : 180.0,
           "listOfRestrictions" : null,
           "optionID" : 533,
           "optionName" : "20 Additional Savage Orruks (max)",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Battleline",
-        "unitCost" : 120,
+        "unitCost" : 120.0,
         "unitID" : 513,
         "autoAddDictionary" : { },
+        "startingModels" : 10,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Maniak Weirdnob",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Leader",
-        "unitCost" : 120,
+        "unitCost" : 120.0,
         "unitID" : 514,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Savage Big Boss",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Leader",
-        "unitCost" : 120,
+        "unitCost" : 120.0,
         "unitID" : 515,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Wardokk",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Leader",
-        "unitCost" : 100,
+        "unitCost" : 100.0,
         "unitID" : 516,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Wurrgog Prophet",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Leader",
-        "unitCost" : 140,
+        "unitCost" : 140.0,
         "unitID" : 517,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "[2]Savage Big Stabbas",
         "listOfOptions" : [ {
-          "optionCost" : 100,
+          "optionCost" : 100.0,
           "listOfRestrictions" : null,
           "optionID" : 534,
           "optionName" : "2 Additional Savage Big Stabbas",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Other",
-        "unitCost" : 100,
+        "unitCost" : 100.0,
         "unitID" : 518,
         "autoAddDictionary" : { },
+        "startingModels" : 2,
         "listOfCurrencies" : null
       }, {
         "unitName" : "[5]Savage Boarboy Maniaks",
         "listOfOptions" : [ {
-          "optionCost" : 140,
+          "optionCost" : 140.0,
           "listOfRestrictions" : null,
           "optionID" : 535,
           "optionName" : "5 Additional Savage Boarboy Maniaks",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Other",
-        "unitCost" : 140,
+        "unitCost" : 140.0,
         "unitID" : 519,
         "autoAddDictionary" : { },
+        "startingModels" : 5,
         "listOfCurrencies" : null
       }, {
         "unitName" : "[5]Savage Boarboys",
         "listOfOptions" : [ {
-          "optionCost" : 100,
+          "optionCost" : 100.0,
           "listOfRestrictions" : null,
           "optionID" : 536,
           "optionName" : "5 Additional Savage Boarboys",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Other",
-        "unitCost" : 100,
+        "unitCost" : 100.0,
         "unitID" : 520,
         "autoAddDictionary" : { },
+        "startingModels" : 5,
         "listOfCurrencies" : null
       }, {
         "unitName" : "[10]Savage Orruk Arrowboys",
         "listOfOptions" : [ {
-          "optionCost" : 140,
+          "optionCost" : 140.0,
           "listOfRestrictions" : null,
           "optionID" : 537,
           "optionName" : "10 Additional Savage Orruk Arrowboys",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Other",
-        "unitCost" : 140,
+        "unitCost" : 140.0,
         "unitID" : 521,
         "autoAddDictionary" : { },
+        "startingModels" : 10,
         "listOfCurrencies" : null
       }, {
         "unitName" : "[10]Savage Orruk Morboys",
         "listOfOptions" : [ {
-          "optionCost" : 120,
+          "optionCost" : 120.0,
           "listOfRestrictions" : null,
           "optionID" : 538,
           "optionName" : "10 Additional Savage Orruk Morboys",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 180,
+          "optionCost" : 180.0,
           "listOfRestrictions" : null,
           "optionID" : 539,
           "optionName" : "20 Additional Savage Orruk Morboys (max)",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Other",
-        "unitCost" : 120,
+        "unitCost" : 120.0,
         "unitID" : 522,
         "autoAddDictionary" : { },
+        "startingModels" : 10,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Bonegrinz Warclan",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warscroll Battalion",
-        "unitCost" : 110,
+        "unitCost" : 110.0,
         "unitID" : 523,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Brutal Rukk",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warscroll Battalion",
-        "unitCost" : 160,
+        "unitCost" : 160.0,
         "unitID" : 524,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Drakkfoot Warclan",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warscroll Battalion",
-        "unitCost" : 140,
+        "unitCost" : 140.0,
         "unitID" : 525,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Icebone Warclan",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warscroll Battalion",
-        "unitCost" : 160,
+        "unitCost" : 160.0,
         "unitID" : 526,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Kop Rukk",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warscroll Battalion",
-        "unitCost" : 200,
+        "unitCost" : 200.0,
         "unitID" : 527,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Kuinnin' Rukk",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warscroll Battalion",
-        "unitCost" : 200,
+        "unitCost" : 200.0,
         "unitID" : 528,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Savage Warclan",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warscroll Battalion",
-        "unitCost" : 80,
+        "unitCost" : 80.0,
         "unitID" : 529,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Snaga Rukk",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warscroll Battalion",
-        "unitCost" : 170,
+        "unitCost" : 170.0,
         "unitID" : 530,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Teef Rukk",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warscroll Battalion",
-        "unitCost" : 100,
+        "unitCost" : 100.0,
         "unitID" : 531,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       } ],
       "listOfEquipmentOptions" : null,
@@ -236,6 +263,7 @@
       "armyCategories" : [ ]
     } ],
     "gameCategories" : [ "Leader", "Battleline", "Artillery", "Warscroll Battalion", "Behemoth", "Leader & Behemoth", "Other" ],
+    "listOfEquipmentOptions" : null,
     "listOfCurrencies" : [ ]
   } ]
 }

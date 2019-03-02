@@ -6,219 +6,244 @@
       "listOfUnits" : [ {
         "unitName" : "[10]Crypt Ghouls",
         "listOfOptions" : [ {
-          "optionCost" : 100,
+          "optionCost" : 100.0,
           "listOfRestrictions" : null,
           "optionID" : 379,
           "optionName" : "10 Additional Crypt Ghouls",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 260,
+          "optionCost" : 260.0,
           "listOfRestrictions" : null,
           "optionID" : 380,
           "optionName" : "30 Additional Crypt Ghouls (max)",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Battleline",
-        "unitCost" : 100,
+        "unitCost" : 100.0,
         "unitID" : 316,
         "autoAddDictionary" : { },
+        "startingModels" : 10,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Terrorgheist",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Behemoth",
-        "unitCost" : 300,
+        "unitCost" : 300.0,
         "unitID" : 359,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Zombie Dragon",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Behemoth",
-        "unitCost" : 300,
+        "unitCost" : 300.0,
         "unitID" : 360,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Abhorrant Ghoul King",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Leader",
-        "unitCost" : 140,
+        "unitCost" : 140.0,
         "unitID" : 361,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Crypt Ghast Courtier",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Leader",
-        "unitCost" : 80,
+        "unitCost" : 80.0,
         "unitID" : 362,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Crypt Haunter Courtier",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Leader",
-        "unitCost" : 140,
+        "unitCost" : 140.0,
         "unitID" : 363,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Crypt Infernal Courtier",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Leader",
-        "unitCost" : 140,
+        "unitCost" : 140.0,
         "unitID" : 364,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Varghulf Courtier",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Leader",
-        "unitCost" : 160,
+        "unitCost" : 160.0,
         "unitID" : 365,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Abhorrant Ghoul King on Terrorgheist",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Leader & Behemoth",
-        "unitCost" : 400,
+        "unitCost" : 400.0,
         "unitID" : 366,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Abhorrant Ghoul King on Zombie Dragon",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Leader & Behemoth",
-        "unitCost" : 440,
+        "unitCost" : 440.0,
         "unitID" : 367,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "[3]Crypt Flayers",
         "listOfOptions" : [ {
-          "optionCost" : 160,
+          "optionCost" : 160.0,
           "listOfRestrictions" : null,
           "optionID" : 381,
           "optionName" : "3 Additional Crypt Flayers",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Other",
-        "unitCost" : 160,
+        "unitCost" : 160.0,
         "unitID" : 368,
         "autoAddDictionary" : { },
+        "startingModels" : 3,
         "listOfCurrencies" : null
       }, {
         "unitName" : "[3]Crypt Horrors",
         "listOfOptions" : [ {
-          "optionCost" : 160,
+          "optionCost" : 160.0,
           "listOfRestrictions" : null,
           "optionID" : 382,
           "optionName" : "3 Additional Crypt Horrors",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Other",
-        "unitCost" : 160,
+        "unitCost" : 160.0,
         "unitID" : 369,
         "autoAddDictionary" : { },
+        "startingModels" : 3,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Abattoir",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warscroll Battalion",
-        "unitCost" : 130,
+        "unitCost" : 130.0,
         "unitID" : 370,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Attendants at Court",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warscroll Battalion",
-        "unitCost" : 160,
+        "unitCost" : 160.0,
         "unitID" : 371,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Deadwatch",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warscroll Battalion",
-        "unitCost" : 170,
+        "unitCost" : 170.0,
         "unitID" : 372,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Flesh-eater Court",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warscroll Battalion",
-        "unitCost" : 120,
+        "unitCost" : 120.0,
         "unitID" : 373,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Ghoul Patrol",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warscroll Battalion",
-        "unitCost" : 180,
+        "unitCost" : 180.0,
         "unitID" : 374,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "King's Ghouls",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warscroll Battalion",
-        "unitCost" : 130,
+        "unitCost" : 130.0,
         "unitID" : 375,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Royal Family",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warscroll Battalion",
-        "unitCost" : 150,
+        "unitCost" : 150.0,
         "unitID" : 376,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Royal Menagerie",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warscroll Battalion",
-        "unitCost" : 140,
+        "unitCost" : 140.0,
         "unitID" : 377,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Royal Mordants",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warscroll Battalion",
-        "unitCost" : 110,
+        "unitCost" : 110.0,
         "unitID" : 378,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       } ],
       "listOfEquipmentOptions" : null,
@@ -226,6 +251,7 @@
       "armyCategories" : [ ]
     } ],
     "gameCategories" : [ "Leader", "Battleline", "Artillery", "Warscroll Battalion", "Behemoth", "Leader & Behemoth", "Other" ],
+    "listOfEquipmentOptions" : null,
     "listOfCurrencies" : [ ]
   } ]
 }

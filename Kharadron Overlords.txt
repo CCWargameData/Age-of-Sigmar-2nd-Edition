@@ -8,181 +8,202 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Artillery",
-        "unitCost" : 160,
+        "unitCost" : 160.0,
         "unitID" : 397,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "[10]Arkanaut Company",
         "listOfOptions" : [ {
-          "optionCost" : 120,
+          "optionCost" : 120.0,
           "listOfRestrictions" : null,
           "optionID" : 841,
           "optionName" : "10 Additional Arkanaut Company",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Battleline",
-        "unitCost" : 120,
+        "unitCost" : 120.0,
         "unitID" : 508,
         "autoAddDictionary" : { },
+        "startingModels" : 10,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Arkanaut Frigate",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Behemoth",
-        "unitCost" : 240,
+        "unitCost" : 240.0,
         "unitID" : 689,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Arkanaut Ironclad",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Behemoth",
-        "unitCost" : 420,
+        "unitCost" : 420.0,
         "unitID" : 711,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Aether-Khemist",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Leader",
-        "unitCost" : 160,
+        "unitCost" : 160.0,
         "unitID" : 828,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Aetheric Navigator",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Leader",
-        "unitCost" : 80,
+        "unitCost" : 80.0,
         "unitID" : 829,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Arkanaut Admiral",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Leader",
-        "unitCost" : 120,
+        "unitCost" : 120.0,
         "unitID" : 830,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Brokk Grungsson, Lord-Magnate of Barak-Nar",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Leader",
-        "unitCost" : 260,
+        "unitCost" : 260.0,
         "unitID" : 831,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Endrinmaster",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Leader",
-        "unitCost" : 120,
+        "unitCost" : 120.0,
         "unitID" : 832,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "[3]Endrinriggers",
         "listOfOptions" : [ {
-          "optionCost" : 120,
+          "optionCost" : 120.0,
           "listOfRestrictions" : null,
           "optionID" : 842,
           "optionName" : "3 Additional Endrinriggers",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Other",
-        "unitCost" : 120,
+        "unitCost" : 120.0,
         "unitID" : 833,
         "autoAddDictionary" : { },
+        "startingModels" : 3,
         "listOfCurrencies" : null
       }, {
         "unitName" : "[5]Grundstok Thunderers",
         "listOfOptions" : [ {
-          "optionCost" : 100,
+          "optionCost" : 100.0,
           "listOfRestrictions" : null,
           "optionID" : 844,
           "optionName" : "5 Additional Grundstok Thunderers",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Other",
-        "unitCost" : 100,
+        "unitCost" : 100.0,
         "unitID" : 834,
         "autoAddDictionary" : { },
+        "startingModels" : 5,
         "listOfCurrencies" : null
       }, {
         "unitName" : "[3]Skywardens",
         "listOfOptions" : [ {
-          "optionCost" : 120,
+          "optionCost" : 120.0,
           "listOfRestrictions" : null,
           "optionID" : 843,
           "optionName" : "3 Additional Skywardens",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Other",
-        "unitCost" : 120,
+        "unitCost" : 120.0,
         "unitID" : 835,
         "autoAddDictionary" : { },
+        "startingModels" : 3,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Aetherstrike Force",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warscroll Battalion",
-        "unitCost" : 150,
+        "unitCost" : 150.0,
         "unitID" : 836,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Grand Armada",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warscroll Battalion",
-        "unitCost" : 100,
+        "unitCost" : 100.0,
         "unitID" : 837,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Grundstok Escort Wing",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warscroll Battalion",
-        "unitCost" : 130,
+        "unitCost" : 130.0,
         "unitID" : 838,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Iron Sky Command",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warscroll Battalion",
-        "unitCost" : 150,
+        "unitCost" : 150.0,
         "unitID" : 839,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Iron Sky Squadron",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warscroll Battalion",
-        "unitCost" : 130,
+        "unitCost" : 130.0,
         "unitID" : 840,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       } ],
       "listOfEquipmentOptions" : null,
@@ -190,6 +211,7 @@
       "armyCategories" : [ ]
     } ],
     "gameCategories" : [ "Leader", "Battleline", "Artillery", "Warscroll Battalion", "Behemoth", "Leader & Behemoth", "Other" ],
+    "listOfEquipmentOptions" : null,
     "listOfCurrencies" : [ ]
   } ]
 }

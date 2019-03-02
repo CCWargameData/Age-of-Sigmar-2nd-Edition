@@ -8,36 +8,40 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Leader",
-        "unitCost" : 80,
+        "unitCost" : 80.0,
         "unitID" : 1103,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Fungoid Cave-Shaman",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Leader",
-        "unitCost" : 80,
+        "unitCost" : 80.0,
         "unitID" : 1104,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Knight of Shrouds",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Leader",
-        "unitCost" : 120,
+        "unitCost" : 120.0,
         "unitID" : 1105,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Lord-Ordinators",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Leader",
-        "unitCost" : 140,
+        "unitCost" : 140.0,
         "unitID" : 1106,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       } ],
       "listOfEquipmentOptions" : null,
@@ -45,6 +49,7 @@
       "armyCategories" : [ ]
     } ],
     "gameCategories" : [ "Leader", "Battleline", "Artillery", "Warscroll Battalion", "Behemoth", "Leader & Behemoth", "Other" ],
+    "listOfEquipmentOptions" : null,
     "listOfCurrencies" : [ ]
   } ]
 }

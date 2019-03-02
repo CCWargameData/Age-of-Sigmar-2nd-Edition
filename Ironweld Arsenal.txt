@@ -8,90 +8,100 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Artillery",
-        "unitCost" : 160,
+        "unitCost" : 160.0,
         "unitID" : 775,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Helblaster Volley Gun",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Artillery",
-        "unitCost" : 120,
+        "unitCost" : 120.0,
         "unitID" : 776,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Helstorm Rocket Battery",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Artillery",
-        "unitCost" : 180,
+        "unitCost" : 180.0,
         "unitID" : 777,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Organ Gun",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Artillery",
-        "unitCost" : 120,
+        "unitCost" : 120.0,
         "unitID" : 778,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Steam Tank",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Behemoth",
-        "unitCost" : 260,
+        "unitCost" : 260.0,
         "unitID" : 779,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Cogsmith",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Leader",
-        "unitCost" : 100,
+        "unitCost" : 100.0,
         "unitID" : 780,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Gunmaster",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Leader",
-        "unitCost" : 80,
+        "unitCost" : 80.0,
         "unitID" : 781,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Gyrobombers",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Other",
-        "unitCost" : 80,
+        "unitCost" : 80.0,
         "unitID" : 782,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Gyrocopters",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Other",
-        "unitCost" : 80,
+        "unitCost" : 80.0,
         "unitID" : 783,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Artillery Detachment",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warscroll Battalion",
-        "unitCost" : 120,
+        "unitCost" : 120.0,
         "unitID" : 784,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       } ],
       "listOfEquipmentOptions" : null,
@@ -99,6 +109,7 @@
       "armyCategories" : [ ]
     } ],
     "gameCategories" : [ "Leader", "Battleline", "Artillery", "Warscroll Battalion", "Behemoth", "Leader & Behemoth", "Other" ],
+    "listOfEquipmentOptions" : null,
     "listOfCurrencies" : [ ]
   } ]
 }

@@ -8,126 +8,140 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Endless Spells",
-        "unitCost" : 40,
+        "unitCost" : 40.0,
         "unitID" : 1118,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Balewind Vortex",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Endless Spells",
-        "unitCost" : 40,
+        "unitCost" : 40.0,
         "unitID" : 1119,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "The Burning Head",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Endless Spells",
-        "unitCost" : 40,
+        "unitCost" : 40.0,
         "unitID" : 1120,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Chronomantic Cogs",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Endless Spells",
-        "unitCost" : 60,
+        "unitCost" : 60.0,
         "unitID" : 1121,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Emerald Lifeswarm",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Endless Spells",
-        "unitCost" : 60,
+        "unitCost" : 60.0,
         "unitID" : 1122,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Geminids of Uhl-Gysh",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Endless Spells",
-        "unitCost" : 40,
+        "unitCost" : 40.0,
         "unitID" : 1123,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Malevolent Maelstrom",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Endless Spells",
-        "unitCost" : 20,
+        "unitCost" : 20.0,
         "unitID" : 1124,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Prismatic Palisade",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Endless Spells",
-        "unitCost" : 30,
+        "unitCost" : 30.0,
         "unitID" : 1125,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Purple Sun of Shyish",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Endless Spells",
-        "unitCost" : 100,
+        "unitCost" : 100.0,
         "unitID" : 1126,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Quicksilver Swords",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Endless Spells",
-        "unitCost" : 20,
+        "unitCost" : 20.0,
         "unitID" : 1128,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Soulsnare Shackles",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Endless Spells",
-        "unitCost" : 20,
+        "unitCost" : 20.0,
         "unitID" : 1130,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Suffocating Gravetide",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Endless Spells",
-        "unitCost" : 30,
+        "unitCost" : 30.0,
         "unitID" : 1131,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Umbral Spellportal",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Endless Spells",
-        "unitCost" : 60,
+        "unitCost" : 60.0,
         "unitID" : 1132,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Ravenak's Gnashing Jaws",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Endless Spells",
-        "unitCost" : 40,
+        "unitCost" : 40.0,
         "unitID" : 22,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       } ],
       "listOfEquipmentOptions" : null,
@@ -135,6 +149,7 @@
       "armyCategories" : [ "Endless Spells" ]
     } ],
     "gameCategories" : [ "Leader", "Battleline", "Artillery", "Warscroll Battalion", "Behemoth", "Leader & Behemoth", "Other" ],
+    "listOfEquipmentOptions" : null,
     "listOfCurrencies" : [ ]
   } ]
 }

@@ -8,9 +8,10 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Behemoth",
-        "unitCost" : 160,
+        "unitCost" : 160.0,
         "unitID" : 474,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       } ],
       "listOfEquipmentOptions" : null,
@@ -18,6 +19,7 @@
       "armyCategories" : [ ]
     } ],
     "gameCategories" : [ "Leader", "Battleline", "Artillery", "Warscroll Battalion", "Behemoth", "Leader & Behemoth", "Other" ],
+    "listOfEquipmentOptions" : null,
     "listOfCurrencies" : [ ]
   } ]
 }

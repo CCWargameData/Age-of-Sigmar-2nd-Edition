@@ -6,268 +6,300 @@
       "listOfUnits" : [ {
         "unitName" : "[10]Sisters of Slaughter",
         "listOfOptions" : [ {
-          "optionCost" : 120,
+          "optionCost" : 120.0,
           "listOfRestrictions" : null,
           "optionID" : 680,
           "optionName" : "10 Additional Sisters of Slaughter",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 180,
+          "optionCost" : 180.0,
           "listOfRestrictions" : null,
           "optionID" : 681,
           "optionName" : "20 Additional Sisters of Slaughter (max)",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Battleline",
-        "unitCost" : 120,
+        "unitCost" : 120.0,
         "unitID" : 659,
         "autoAddDictionary" : { },
+        "startingModels" : 10,
         "listOfCurrencies" : null
       }, {
         "unitName" : "[10]Witch Aelves",
         "listOfOptions" : [ {
-          "optionCost" : 100,
+          "optionCost" : 100.0,
           "listOfRestrictions" : null,
           "optionID" : 682,
           "optionName" : "10 Additional Witch Aelves",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 170,
+          "optionCost" : 170.0,
           "listOfRestrictions" : null,
           "optionID" : 683,
           "optionName" : "20 Additional Witch Aelves (max)",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Battleline",
-        "unitCost" : 100,
+        "unitCost" : 100.0,
         "unitID" : 660,
         "autoAddDictionary" : { },
+        "startingModels" : 10,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Avatar of Khaine",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Behemoth",
-        "unitCost" : 180,
+        "unitCost" : 180.0,
         "unitID" : 661,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Bloodwrack Medusa",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Leader",
-        "unitCost" : 140,
+        "unitCost" : 140.0,
         "unitID" : 662,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Hag Queen",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Leader",
-        "unitCost" : 60,
+        "unitCost" : 60.0,
         "unitID" : 663,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Morathi, High Oracle of Khaine",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Leader",
-        "unitCost" : 480,
+        "unitCost" : 480.0,
         "unitID" : 664,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Slaughter Queen",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Leader",
-        "unitCost" : 100,
+        "unitCost" : 100.0,
         "unitID" : 665,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Bloodwrack Shrine",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Leader & Behemoth",
-        "unitCost" : 220,
+        "unitCost" : 220.0,
         "unitID" : 666,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Hag Queen on Cauldron of Blood",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Leader & Behemoth",
-        "unitCost" : 300,
+        "unitCost" : 300.0,
         "unitID" : 667,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Slaughter Queen on Cauldron of Blood",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Leader & Behemoth",
-        "unitCost" : 330,
+        "unitCost" : 330.0,
         "unitID" : 668,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "[5]Doomfire Warlocks",
         "listOfOptions" : [ {
-          "optionCost" : 160,
+          "optionCost" : 160.0,
           "listOfRestrictions" : null,
           "optionID" : 684,
           "optionName" : "5 Additional Doomfire Warlocks",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Other",
-        "unitCost" : 160,
+        "unitCost" : 160.0,
         "unitID" : 669,
         "autoAddDictionary" : { },
+        "startingModels" : 5,
         "listOfCurrencies" : null
       }, {
         "unitName" : "[5]Blood Sisters",
         "listOfOptions" : [ {
-          "optionCost" : 140,
+          "optionCost" : 140.0,
           "listOfRestrictions" : null,
           "optionID" : 685,
           "optionName" : "5 Additional Blood Sisters",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 340,
+          "optionCost" : 340.0,
           "listOfRestrictions" : null,
           "optionID" : 687,
           "optionName" : "15 Additional Blood Sisters (max)",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Other",
-        "unitCost" : 140,
+        "unitCost" : 140.0,
         "unitID" : 670,
         "autoAddDictionary" : { },
+        "startingModels" : 5,
         "listOfCurrencies" : null
       }, {
         "unitName" : "[5]Blood Stalkers",
         "listOfOptions" : [ {
-          "optionCost" : 160,
+          "optionCost" : 160.0,
           "listOfRestrictions" : null,
           "optionID" : 686,
           "optionName" : "5 Additional Blood Stalkers",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Other",
-        "unitCost" : 160,
+        "unitCost" : 160.0,
         "unitID" : 671,
         "autoAddDictionary" : { },
+        "startingModels" : 5,
         "listOfCurrencies" : null
       }, {
         "unitName" : "[5]Khinerai Heartrenders",
         "listOfOptions" : [ {
-          "optionCost" : 80,
+          "optionCost" : 80.0,
           "listOfRestrictions" : null,
           "optionID" : 688,
           "optionName" : "5 Additional Khinerai Heartrenders",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Other",
-        "unitCost" : 80,
+        "unitCost" : 80.0,
         "unitID" : 672,
         "autoAddDictionary" : { },
+        "startingModels" : 5,
         "listOfCurrencies" : null
       }, {
         "unitName" : "[5]Khinerai Lifetakers",
         "listOfOptions" : [ {
-          "optionCost" : 200,
+          "optionCost" : 200.0,
           "listOfRestrictions" : null,
           "optionID" : 690,
           "optionName" : "15 Additional Khinerai Lifetakers (max)",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 80,
+          "optionCost" : 80.0,
           "listOfRestrictions" : null,
           "optionID" : 691,
           "optionName" : "5 Additional Khinerai Lifetakers",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Other",
-        "unitCost" : 80,
+        "unitCost" : 80.0,
         "unitID" : 673,
         "autoAddDictionary" : { },
+        "startingModels" : 5,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Cauldron Gaurd",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warscroll Battalion",
-        "unitCost" : 120,
+        "unitCost" : 120.0,
         "unitID" : 674,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Temple Nest",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warscroll Battalion",
-        "unitCost" : 130,
+        "unitCost" : 130.0,
         "unitID" : 675,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Shadow Patrol",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warscroll Battalion",
-        "unitCost" : 130,
+        "unitCost" : 130.0,
         "unitID" : 676,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Shadowhammer Compact",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warscroll Battalion",
-        "unitCost" : 170,
+        "unitCost" : 170.0,
         "unitID" : 677,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Slaughter Troupe",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warscroll Battalion",
-        "unitCost" : 130,
+        "unitCost" : 130.0,
         "unitID" : 678,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "War Coven of Morathi",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warscroll Battalion",
-        "unitCost" : 100,
+        "unitCost" : 100.0,
         "unitID" : 679,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       } ],
       "listOfEquipmentOptions" : null,
@@ -275,6 +307,7 @@
       "armyCategories" : [ ]
     } ],
     "gameCategories" : [ "Leader", "Battleline", "Artillery", "Warscroll Battalion", "Behemoth", "Leader & Behemoth", "Other" ],
+    "listOfEquipmentOptions" : null,
     "listOfCurrencies" : [ ]
   } ]
 }

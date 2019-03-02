@@ -6,180 +6,202 @@
       "listOfUnits" : [ {
         "unitName" : "[10]Daemonettes of Slaanesh",
         "listOfOptions" : [ {
-          "optionCost" : 100,
+          "optionCost" : 100.0,
           "listOfRestrictions" : null,
           "optionID" : 254,
           "optionName" : "10 Additional Daemonettes of Slaanesh",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         }, {
-          "optionCost" : 170,
+          "optionCost" : 170.0,
           "listOfRestrictions" : null,
           "optionID" : 255,
           "optionName" : "20 Additional Daemonettes of Slaanesh (max)",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Battleline",
-        "unitCost" : 100,
+        "unitCost" : 100.0,
         "unitID" : 238,
         "autoAddDictionary" : { },
+        "startingModels" : 10,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Chaos Lord of Slaanesh",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Leader",
-        "unitCost" : 100,
+        "unitCost" : 100.0,
         "unitID" : 239,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Herald of Slaanesh",
         "listOfOptions" : [ {
-          "optionCost" : 100,
+          "optionCost" : 100.0,
           "listOfRestrictions" : null,
           "optionID" : 241,
           "optionName" : "Exalted Seeker Chariot",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 40,
+          "optionCost" : 40.0,
           "listOfRestrictions" : null,
           "optionID" : 242,
           "optionName" : "Seeker Chariot",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Leader",
-        "unitCost" : 60,
+        "unitCost" : 60.0,
         "unitID" : 240,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Lord of Slaanesh on Daemonic Mount",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Leader",
-        "unitCost" : 140,
+        "unitCost" : 140.0,
         "unitID" : 245,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "The Masque of Slaanesh",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Leader",
-        "unitCost" : 80,
+        "unitCost" : 80.0,
         "unitID" : 246,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Keeper of Secrets",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Leader & Behemoth",
-        "unitCost" : 260,
+        "unitCost" : 260.0,
         "unitID" : 247,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Exalted Seeker Chariots of Slaanesh",
         "listOfOptions" : [ {
-          "optionCost" : 140,
+          "optionCost" : 140.0,
           "listOfRestrictions" : null,
           "optionID" : 256,
           "optionName" : "Additional Seeker Chariot of Slaanesh",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Other",
-        "unitCost" : 140,
+        "unitCost" : 140.0,
         "unitID" : 248,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "[3]Fiends of Slaanesh",
         "listOfOptions" : [ {
-          "optionCost" : 140,
+          "optionCost" : 140.0,
           "listOfRestrictions" : null,
           "optionID" : 257,
           "optionName" : "3 Additional Fields of Slaanesh",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Other",
-        "unitCost" : 140,
+        "unitCost" : 140.0,
         "unitID" : 249,
         "autoAddDictionary" : { },
+        "startingModels" : 3,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Hellflayers of Slaanesh",
         "listOfOptions" : [ {
-          "optionCost" : 80,
+          "optionCost" : 80.0,
           "listOfRestrictions" : null,
           "optionID" : 258,
           "optionName" : "Additional Hellflayers of Slaanesh",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Other",
-        "unitCost" : 80,
+        "unitCost" : 80.0,
         "unitID" : 250,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Hellstriders of Slaanesh",
         "listOfOptions" : [ {
-          "optionCost" : 100,
+          "optionCost" : 100.0,
           "listOfRestrictions" : null,
           "optionID" : 259,
           "optionName" : "5 Additional Hellstriders of Slaanesh",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Other",
-        "unitCost" : 100,
+        "unitCost" : 100.0,
         "unitID" : 251,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Seeker Chariots of Slaanesh",
         "listOfOptions" : [ {
-          "optionCost" : 80,
+          "optionCost" : 80.0,
           "listOfRestrictions" : null,
           "optionID" : 260,
           "optionName" : "Additional Seeker Chariot of Slaanesh",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Other",
-        "unitCost" : 80,
+        "unitCost" : 80.0,
         "unitID" : 252,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "[5]Seekers of Slaanesh",
         "listOfOptions" : [ {
-          "optionCost" : 120,
+          "optionCost" : 120.0,
           "listOfRestrictions" : null,
           "optionID" : 261,
           "optionName" : "5 Additional Seekers of Slaanesh",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Other",
-        "unitCost" : 120,
+        "unitCost" : 120.0,
         "unitID" : 253,
         "autoAddDictionary" : { },
+        "startingModels" : 5,
         "listOfCurrencies" : null
       } ],
       "listOfEquipmentOptions" : null,
@@ -187,6 +209,7 @@
       "armyCategories" : [ ]
     } ],
     "gameCategories" : [ "Leader", "Battleline", "Artillery", "Warscroll Battalion", "Behemoth", "Leader & Behemoth", "Other" ],
+    "listOfEquipmentOptions" : null,
     "listOfCurrencies" : [ ]
   } ]
 }

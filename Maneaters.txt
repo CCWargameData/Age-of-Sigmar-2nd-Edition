@@ -6,18 +6,20 @@
       "listOfUnits" : [ {
         "unitName" : "[3]Maneaters",
         "listOfOptions" : [ {
-          "optionCost" : 200,
+          "optionCost" : 200.0,
           "listOfRestrictions" : null,
           "optionID" : 607,
           "optionName" : "3 Additional Maneaters",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Other",
-        "unitCost" : 200,
+        "unitCost" : 200.0,
         "unitID" : 606,
         "autoAddDictionary" : { },
+        "startingModels" : 3,
         "listOfCurrencies" : null
       } ],
       "listOfEquipmentOptions" : null,
@@ -25,6 +27,7 @@
       "armyCategories" : [ ]
     } ],
     "gameCategories" : [ "Leader", "Battleline", "Artillery", "Warscroll Battalion", "Behemoth", "Leader & Behemoth", "Other" ],
+    "listOfEquipmentOptions" : null,
     "listOfCurrencies" : [ ]
   } ]
 }

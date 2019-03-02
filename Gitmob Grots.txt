@@ -8,146 +8,164 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Artillery",
-        "unitCost" : 120,
+        "unitCost" : 120.0,
         "unitID" : 541,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Grot Rock Lobber",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Artillery",
-        "unitCost" : 100,
+        "unitCost" : 100.0,
         "unitID" : 542,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Grot Spear Chukka",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Artillery",
-        "unitCost" : 120,
+        "unitCost" : 120.0,
         "unitID" : 543,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "[20]Grots",
         "listOfOptions" : [ {
-          "optionCost" : 100,
+          "optionCost" : 100.0,
           "listOfRestrictions" : null,
           "optionID" : 551,
           "optionName" : "20 Additional Grots",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 170,
+          "optionCost" : 170.0,
           "listOfRestrictions" : null,
           "optionID" : 552,
           "optionName" : "40 Additional Grots (max)",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Battleline",
-        "unitCost" : 100,
+        "unitCost" : 100.0,
         "unitID" : 544,
         "autoAddDictionary" : { },
+        "startingModels" : 20,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Grot Shaman",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Leader",
-        "unitCost" : 80,
+        "unitCost" : 80.0,
         "unitID" : 545,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Grot Wolf Chariots",
         "listOfOptions" : [ {
-          "optionCost" : 40,
+          "optionCost" : 40.0,
           "listOfRestrictions" : null,
           "optionID" : 553,
           "optionName" : "Additional Wolf Grot Chariot",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Other",
-        "unitCost" : 40,
+        "unitCost" : 40.0,
         "unitID" : 546,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "[5]Grot Wolf Riders",
         "listOfOptions" : [ {
-          "optionCost" : 90,
+          "optionCost" : 90.0,
           "listOfRestrictions" : null,
           "optionID" : 554,
           "optionName" : "5 Additional Grot Wold Riders",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 390,
+          "optionCost" : 390.0,
           "listOfRestrictions" : null,
           "optionID" : 555,
           "optionName" : "25 Additional Grot Wold Riders (max)",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Other",
-        "unitCost" : 90,
+        "unitCost" : 90.0,
         "unitID" : 547,
         "autoAddDictionary" : { },
+        "startingModels" : 5,
         "listOfCurrencies" : null
       }, {
         "unitName" : "[3]Nasty Skulkers",
         "listOfOptions" : [ {
-          "optionCost" : 40,
+          "optionCost" : 40.0,
           "listOfRestrictions" : null,
           "optionID" : 556,
           "optionName" : "3 Additional Nasty Skulkers",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Other",
-        "unitCost" : 40,
+        "unitCost" : 40.0,
         "unitID" : 548,
         "autoAddDictionary" : { },
+        "startingModels" : 3,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Snotling Pump Wagons",
         "listOfOptions" : [ {
-          "optionCost" : 60,
+          "optionCost" : 60.0,
           "listOfRestrictions" : null,
           "optionID" : 557,
           "optionName" : "Additional Snotling Pump Wagon",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Other",
-        "unitCost" : 60,
+        "unitCost" : 60.0,
         "unitID" : 549,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "[2]Snotlings",
         "listOfOptions" : [ {
-          "optionCost" : 40,
+          "optionCost" : 40.0,
           "listOfRestrictions" : null,
           "optionID" : 558,
           "optionName" : "2 Additional Snotlings",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Other",
-        "unitCost" : 40,
+        "unitCost" : 40.0,
         "unitID" : 550,
         "autoAddDictionary" : { },
+        "startingModels" : 2,
         "listOfCurrencies" : null
       } ],
       "listOfEquipmentOptions" : null,
@@ -155,6 +173,7 @@
       "armyCategories" : [ ]
     } ],
     "gameCategories" : [ "Leader", "Battleline", "Artillery", "Warscroll Battalion", "Behemoth", "Leader & Behemoth", "Other" ],
+    "listOfEquipmentOptions" : null,
     "listOfCurrencies" : [ ]
   } ]
 }

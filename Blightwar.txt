@@ -6,173 +6,194 @@
       "listOfUnits" : [ {
         "unitName" : "[3]Aetherwings",
         "listOfOptions" : [ {
-          "optionCost" : 50,
+          "optionCost" : 50.0,
           "listOfRestrictions" : null,
           "optionID" : 1088,
           "optionName" : "3 Additional Aetherwings",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Other",
-        "unitCost" : 50,
+        "unitCost" : 50.0,
         "unitID" : 1076,
         "autoAddDictionary" : { },
+        "startingModels" : 3,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Horticulous Slimux",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Leader",
-        "unitCost" : 220,
+        "unitCost" : 220.0,
         "unitID" : 1077,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Neave Blacktalon",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Leader",
-        "unitCost" : 120,
+        "unitCost" : 120.0,
         "unitID" : 1078,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "[3]Nurglings",
         "listOfOptions" : [ {
-          "optionCost" : 100,
+          "optionCost" : 100.0,
           "listOfRestrictions" : null,
           "optionID" : 1089,
           "optionName" : "3 Additional Nurglings",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Other",
-        "unitCost" : 100,
+        "unitCost" : 100.0,
         "unitID" : 1079,
         "autoAddDictionary" : { },
+        "startingModels" : 3,
         "listOfCurrencies" : null
       }, {
         "unitName" : "[3]Plague Drones",
         "listOfOptions" : [ {
-          "optionCost" : 200,
+          "optionCost" : 200.0,
           "listOfRestrictions" : null,
           "optionID" : 1090,
           "optionName" : "3 Additional Plague Drones",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Other",
-        "unitCost" : 200,
+        "unitCost" : 200.0,
         "unitID" : 1080,
         "autoAddDictionary" : { },
+        "startingModels" : 3,
         "listOfCurrencies" : null
       }, {
         "unitName" : "[10]Plaguebearers",
         "listOfOptions" : [ {
-          "optionCost" : 120,
+          "optionCost" : 120.0,
           "listOfRestrictions" : null,
           "optionID" : 1091,
           "optionName" : "10 Additional Plague Bearers",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 120,
+          "optionCost" : 120.0,
           "listOfRestrictions" : null,
           "optionID" : 1092,
           "optionName" : "20 Additional Plague Bearers (max)",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Battleline",
-        "unitCost" : 120,
+        "unitCost" : 120.0,
         "unitID" : 1081,
         "autoAddDictionary" : { },
+        "startingModels" : 10,
         "listOfCurrencies" : null
       }, {
         "unitName" : "[5]Vanguard Hunters",
         "listOfOptions" : [ {
-          "optionCost" : 120,
+          "optionCost" : 120.0,
           "listOfRestrictions" : null,
           "optionID" : 1093,
           "optionName" : "5 Additional Vanguard-Hunters",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Other",
-        "unitCost" : 120,
+        "unitCost" : 120.0,
         "unitID" : 1082,
         "autoAddDictionary" : { },
+        "startingModels" : 5,
         "listOfCurrencies" : null
       }, {
         "unitName" : "[3]Vanguard-Palladors",
         "listOfOptions" : [ {
-          "optionCost" : 200,
+          "optionCost" : 200.0,
           "listOfRestrictions" : null,
           "optionID" : 1094,
           "optionName" : "3 Additional Vanguard-Palladors",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Other",
-        "unitCost" : 200,
+        "unitCost" : 200.0,
         "unitID" : 1083,
         "autoAddDictionary" : { },
+        "startingModels" : 3,
         "listOfCurrencies" : null
       }, {
         "unitName" : "[3]Vanguard-Raptors with Hurricane Crossbows",
         "listOfOptions" : [ {
-          "optionCost" : 140,
+          "optionCost" : 140.0,
           "listOfRestrictions" : null,
           "optionID" : 1095,
           "optionName" : "3 Additional Vanguard-Raptors with Hurricane Crossbows",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Other",
-        "unitCost" : 140,
+        "unitCost" : 140.0,
         "unitID" : 1084,
         "autoAddDictionary" : { },
+        "startingModels" : 3,
         "listOfCurrencies" : null
       }, {
         "unitName" : "[3]Vanguard-Raptors with Longstrike Crossbows",
         "listOfOptions" : [ {
-          "optionCost" : 180,
+          "optionCost" : 180.0,
           "listOfRestrictions" : null,
           "optionID" : 1096,
           "optionName" : "3 Additional Vanguard-Raptors with Longstrike Crossbows",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Other",
-        "unitCost" : 180,
+        "unitCost" : 180.0,
         "unitID" : 1085,
         "autoAddDictionary" : { },
+        "startingModels" : 3,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Blacktalon's Shadowhammers",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warscroll Battalion",
-        "unitCost" : 160,
+        "unitCost" : 160.0,
         "unitID" : 1086,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Fecund Rituculturalists",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warscroll Battalion",
-        "unitCost" : 180,
+        "unitCost" : 180.0,
         "unitID" : 1087,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       } ],
       "listOfEquipmentOptions" : null,
@@ -180,6 +201,7 @@
       "armyCategories" : [ ]
     } ],
     "gameCategories" : [ "Leader", "Battleline", "Artillery", "Warscroll Battalion", "Behemoth", "Leader & Behemoth", "Other" ],
+    "listOfEquipmentOptions" : null,
     "listOfCurrencies" : [ ]
   } ]
 }

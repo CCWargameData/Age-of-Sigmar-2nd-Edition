@@ -8,172 +8,192 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Leader",
-        "unitCost" : 140,
+        "unitCost" : 140.0,
         "unitID" : 586,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Orruk Warchanter",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Leader",
-        "unitCost" : 80,
+        "unitCost" : 80.0,
         "unitID" : 587,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Orruk Weirdnob Shaman",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Leader",
-        "unitCost" : 120,
+        "unitCost" : 120.0,
         "unitID" : 588,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Gordrakk, The First of Gork",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Leader & Behemoth",
-        "unitCost" : 580,
+        "unitCost" : 580.0,
         "unitID" : 589,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Megaboss on Maw-krusha",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Leader & Behemoth",
-        "unitCost" : 440,
+        "unitCost" : 440.0,
         "unitID" : 590,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "[10]Orruk Ardboys",
         "listOfOptions" : [ {
-          "optionCost" : 160,
+          "optionCost" : 160.0,
           "listOfRestrictions" : null,
           "optionID" : 602,
           "optionName" : "10 Additional Orruk Ardboys",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 290,
+          "optionCost" : 290.0,
           "listOfRestrictions" : null,
           "optionID" : 603,
           "optionName" : "20 Additional Orruk Ardboys (max)",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Other",
-        "unitCost" : 160,
+        "unitCost" : 160.0,
         "unitID" : 591,
         "autoAddDictionary" : { },
+        "startingModels" : 10,
         "listOfCurrencies" : null
       }, {
         "unitName" : "[5]Orruk Brutes",
         "listOfOptions" : [ {
-          "optionCost" : 180,
+          "optionCost" : 180.0,
           "listOfRestrictions" : null,
           "optionID" : 604,
           "optionName" : "5 Additional Orruk Brutes",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Other",
-        "unitCost" : 180,
+        "unitCost" : 180.0,
         "unitID" : 592,
         "autoAddDictionary" : { },
+        "startingModels" : 5,
         "listOfCurrencies" : null
       }, {
         "unitName" : "[3] Orruk Gore-gruntas",
         "listOfOptions" : [ {
-          "optionCost" : 140,
+          "optionCost" : 140.0,
           "listOfRestrictions" : null,
           "optionID" : 605,
           "optionName" : "3 Additional Orruk Gore-gruntas",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Other",
-        "unitCost" : 140,
+        "unitCost" : 140.0,
         "unitID" : 593,
         "autoAddDictionary" : { },
+        "startingModels" : 3,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Ardfist",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warscroll Battalion",
-        "unitCost" : 170,
+        "unitCost" : 170.0,
         "unitID" : 594,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Bloodtoofs",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warscroll Battalion",
-        "unitCost" : 120,
+        "unitCost" : 120.0,
         "unitID" : 595,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Brawl",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warscroll Battalion",
-        "unitCost" : 180,
+        "unitCost" : 180.0,
         "unitID" : 596,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Brutefist",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warscroll Battalion",
-        "unitCost" : 180,
+        "unitCost" : 180.0,
         "unitID" : 597,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Gorefist",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warscroll Battalion",
-        "unitCost" : 190,
+        "unitCost" : 190.0,
         "unitID" : 598,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Ironfist",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warscroll Battalion",
-        "unitCost" : 180,
+        "unitCost" : 180.0,
         "unitID" : 599,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Ironsunz",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warscroll Battalion",
-        "unitCost" : 120,
+        "unitCost" : 120.0,
         "unitID" : 600,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Weirdfist",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warscroll Battalion",
-        "unitCost" : 180,
+        "unitCost" : 180.0,
         "unitID" : 601,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       } ],
       "listOfEquipmentOptions" : null,
@@ -181,6 +201,7 @@
       "armyCategories" : [ ]
     } ],
     "gameCategories" : [ "Leader", "Battleline", "Artillery", "Warscroll Battalion", "Behemoth", "Leader & Behemoth", "Other" ],
+    "listOfEquipmentOptions" : null,
     "listOfCurrencies" : [ ]
   } ]
 }

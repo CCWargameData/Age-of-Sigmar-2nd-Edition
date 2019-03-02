@@ -8,116 +8,130 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Behemoth",
-        "unitCost" : 220,
+        "unitCost" : 220.0,
         "unitID" : 302,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Cockatrice",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Behemoth",
-        "unitCost" : 100,
+        "unitCost" : 100.0,
         "unitID" : 303,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Jabberslythe",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Behemoth",
-        "unitCost" : 140,
+        "unitCost" : 140.0,
         "unitID" : 304,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Mutalith Vortex Beast",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Behemoth",
-        "unitCost" : 200,
+        "unitCost" : 200.0,
         "unitID" : 305,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Slaughterbrute",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Behemoth",
-        "unitCost" : 180,
+        "unitCost" : 180.0,
         "unitID" : 306,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "[5]Centigors",
         "listOfOptions" : [ {
-          "optionCost" : 80,
+          "optionCost" : 80.0,
           "listOfRestrictions" : null,
           "optionID" : 311,
           "optionName" : "5 Additional Centigors",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Other",
-        "unitCost" : 80,
+        "unitCost" : 80.0,
         "unitID" : 307,
         "autoAddDictionary" : { },
+        "startingModels" : 5,
         "listOfCurrencies" : null
       }, {
         "unitName" : "[10]Chaos Warhounds",
         "listOfOptions" : [ {
-          "optionCost" : 80,
+          "optionCost" : 80.0,
           "listOfRestrictions" : null,
           "optionID" : 312,
           "optionName" : "10 Additional Chaos Warhounds",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 130,
+          "optionCost" : 130.0,
           "listOfRestrictions" : null,
           "optionID" : 313,
           "optionName" : "20 Additional Chaos Warhounds (max)",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Other",
-        "unitCost" : 80,
+        "unitCost" : 80.0,
         "unitID" : 308,
         "autoAddDictionary" : { },
+        "startingModels" : 10,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "[5]Harpies",
         "listOfOptions" : [ {
-          "optionCost" : 60,
+          "optionCost" : 60.0,
           "listOfRestrictions" : null,
           "optionID" : 314,
           "optionName" : "5 Additional Harpies",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Other",
-        "unitCost" : 60,
+        "unitCost" : 60.0,
         "unitID" : 309,
         "autoAddDictionary" : { },
+        "startingModels" : 5,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Razorgors",
         "listOfOptions" : [ {
-          "optionCost" : 60,
+          "optionCost" : 60.0,
           "listOfRestrictions" : null,
           "optionID" : 315,
           "optionName" : "Additional Razorgor",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Other",
-        "unitCost" : 60,
+        "unitCost" : 60.0,
         "unitID" : 310,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       } ],
       "listOfEquipmentOptions" : null,
@@ -125,6 +139,7 @@
       "armyCategories" : [ ]
     } ],
     "gameCategories" : [ "Leader", "Battleline", "Artillery", "Warscroll Battalion", "Behemoth", "Leader & Behemoth", "Other" ],
+    "listOfEquipmentOptions" : null,
     "listOfCurrencies" : [ ]
   } ]
 }

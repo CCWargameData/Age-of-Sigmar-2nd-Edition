@@ -6,294 +6,328 @@
       "listOfUnits" : [ {
         "unitName" : "[10]Dryads",
         "listOfOptions" : [ {
-          "optionCost" : 100,
+          "optionCost" : 100.0,
           "listOfRestrictions" : null,
           "optionID" : 1035,
           "optionName" : "10 Additional Dryads",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 170,
+          "optionCost" : 170.0,
           "listOfRestrictions" : null,
           "optionID" : 1036,
           "optionName" : "20 Additional Dryads (max)",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Battleline",
-        "unitCost" : 100,
+        "unitCost" : 100.0,
         "unitID" : 1024,
         "autoAddDictionary" : { },
+        "startingModels" : 10,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Treelord",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Behemoth",
-        "unitCost" : 240,
+        "unitCost" : 240.0,
         "unitID" : 1025,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Branchwraith",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Leader",
-        "unitCost" : 80,
+        "unitCost" : 80.0,
         "unitID" : 1026,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Branchwych",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Leader",
-        "unitCost" : 80,
+        "unitCost" : 80.0,
         "unitID" : 1027,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Alarielle the Everqueen",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Leader & Behemoth",
-        "unitCost" : 600,
+        "unitCost" : 600.0,
         "unitID" : 1028,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Drycha Hamadreth",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Leader & Behemoth",
-        "unitCost" : 280,
+        "unitCost" : 280.0,
         "unitID" : 1029,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Spirit of Durthu",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Leader & Behemoth",
-        "unitCost" : 380,
+        "unitCost" : 380.0,
         "unitID" : 1030,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Treelord Ancient",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Leader & Behemoth",
-        "unitCost" : 300,
+        "unitCost" : 300.0,
         "unitID" : 1031,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "[3]Kurnoth Hunters",
         "listOfOptions" : [ {
-          "optionCost" : 200,
+          "optionCost" : 200.0,
           "listOfRestrictions" : null,
           "optionID" : 1037,
           "optionName" : "10 Additional Kurnoth Hunters",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Other",
-        "unitCost" : 200,
+        "unitCost" : 200.0,
         "unitID" : 1032,
         "autoAddDictionary" : { },
+        "startingModels" : 3,
         "listOfCurrencies" : null
       }, {
         "unitName" : "[5]Spite-Revenants",
         "listOfOptions" : [ {
-          "optionCost" : 70,
+          "optionCost" : 70.0,
           "listOfRestrictions" : null,
           "optionID" : 1038,
           "optionName" : "5 Additional Spite-Revenants",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 290,
+          "optionCost" : 290.0,
           "listOfRestrictions" : null,
           "optionID" : 1039,
           "optionName" : "25 Additional Spite-Revenants (max)",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Other",
-        "unitCost" : 70,
+        "unitCost" : 70.0,
         "unitID" : 1033,
         "autoAddDictionary" : { },
+        "startingModels" : 5,
         "listOfCurrencies" : null
       }, {
         "unitName" : "[5]Tree-Revenants",
         "listOfOptions" : [ {
-          "optionCost" : 80,
+          "optionCost" : 80.0,
           "listOfRestrictions" : null,
           "optionID" : 1040,
           "optionName" : "5 Additional Tree-Revenants",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 340,
+          "optionCost" : 340.0,
           "listOfRestrictions" : null,
           "optionID" : 1041,
           "optionName" : "25 Additional Tree-Revenants (max)",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Other",
-        "unitCost" : 80,
+        "unitCost" : 80.0,
         "unitID" : 1034,
         "autoAddDictionary" : { },
+        "startingModels" : 5,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Dreadwood Wargrove",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warscroll Battalion",
-        "unitCost" : 90,
+        "unitCost" : 90.0,
         "unitID" : 1042,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Forest Folk",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warscroll Battalion",
-        "unitCost" : 140,
+        "unitCost" : 140.0,
         "unitID" : 1043,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Forest Spirit Wargrove",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warscroll Battalion",
-        "unitCost" : 140,
+        "unitCost" : 140.0,
         "unitID" : 1044,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Free Spirits",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warscroll Battalion",
-        "unitCost" : 120,
+        "unitCost" : 120.0,
         "unitID" : 1045,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Gnarlroot Wargrove",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warscroll Battalion",
-        "unitCost" : 130,
+        "unitCost" : 130.0,
         "unitID" : 1046,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "The Guardians of Alarielle",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warscroll Battalion",
-        "unitCost" : 200,
+        "unitCost" : 200.0,
         "unitID" : 1047,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Harvestboon Wargrove",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warscroll Battalion",
-        "unitCost" : 100,
+        "unitCost" : 100.0,
         "unitID" : 1048,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Heartwood Wargrove",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warscroll Battalion",
-        "unitCost" : 80,
+        "unitCost" : 80.0,
         "unitID" : 1049,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Household",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warscroll Battalion",
-        "unitCost" : 100,
+        "unitCost" : 100.0,
         "unitID" : 1050,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Ironbark Wargrove",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warscroll Battalion",
-        "unitCost" : 80,
+        "unitCost" : 80.0,
         "unitID" : 1051,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Lords of the Clan",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warscroll Battalion",
-        "unitCost" : 100,
+        "unitCost" : 100.0,
         "unitID" : 1052,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Oakenbrow Wargrove",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warscroll Battalion",
-        "unitCost" : 90,
+        "unitCost" : 90.0,
         "unitID" : 1053,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Outcasts",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warscroll Battalion",
-        "unitCost" : 90,
+        "unitCost" : 90.0,
         "unitID" : 1054,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Sylvaneth Wargrove",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warscroll Battalion",
-        "unitCost" : 80,
+        "unitCost" : 80.0,
         "unitID" : 1055,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Winterleaf Wargrove",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Warscroll Battalion",
-        "unitCost" : 90,
+        "unitCost" : 90.0,
         "unitID" : 1056,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Sylvaneth Wyldwood",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Scenery",
-        "unitCost" : 0,
+        "unitCost" : 0.0,
         "unitID" : 1057,
         "autoAddDictionary" : { },
+        "startingModels" : 0,
         "listOfCurrencies" : null
       } ],
       "listOfEquipmentOptions" : null,
@@ -301,6 +335,7 @@
       "armyCategories" : [ "Scenery" ]
     } ],
     "gameCategories" : [ "Leader", "Battleline", "Artillery", "Warscroll Battalion", "Behemoth", "Leader & Behemoth", "Other" ],
+    "listOfEquipmentOptions" : null,
     "listOfCurrencies" : [ ]
   } ]
 }

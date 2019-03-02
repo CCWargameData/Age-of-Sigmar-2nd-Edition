@@ -8,99 +8,110 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Other",
-        "unitCost" : 40,
+        "unitCost" : 40.0,
         "unitID" : 1107,
         "autoAddDictionary" : { },
+        "startingModels" : 3,
         "listOfCurrencies" : null
       }, {
         "unitName" : "[3]The Farstriders",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Other",
-        "unitCost" : 100,
+        "unitCost" : 100.0,
         "unitID" : 1108,
         "autoAddDictionary" : { },
+        "startingModels" : 3,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Fjul-Grimnir",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Leader",
-        "unitCost" : 100,
+        "unitCost" : 100.0,
         "unitID" : 1109,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "[5]Garrek's Reavers",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Other",
-        "unitCost" : 60,
+        "unitCost" : 60.0,
         "unitID" : 1110,
         "autoAddDictionary" : { },
+        "startingModels" : 5,
         "listOfCurrencies" : null
       }, {
         "unitName" : "[4]Ironskull's Boyz",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Other",
-        "unitCost" : 80,
+        "unitCost" : 80.0,
         "unitID" : 1111,
         "autoAddDictionary" : { },
+        "startingModels" : 4,
         "listOfCurrencies" : null
       }, {
         "unitName" : "[3]Magore's Fiends",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Other",
-        "unitCost" : 80,
+        "unitCost" : 80.0,
         "unitID" : 1112,
         "autoAddDictionary" : { },
+        "startingModels" : 3,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Riptooth",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Other",
-        "unitCost" : 40,
+        "unitCost" : 40.0,
         "unitID" : 1113,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "[7]The Sepulchral Guard",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Other",
-        "unitCost" : 80,
+        "unitCost" : 80.0,
         "unitID" : 1114,
         "autoAddDictionary" : { },
+        "startingModels" : 7,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Skritch Spiteclaw",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Leader",
-        "unitCost" : 120,
+        "unitCost" : 120.0,
         "unitID" : 1115,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "[4]Spiteclaw's Swarm",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Other",
-        "unitCost" : 30,
+        "unitCost" : 30.0,
         "unitID" : 1116,
         "autoAddDictionary" : { },
+        "startingModels" : 4,
         "listOfCurrencies" : null
       }, {
         "unitName" : "[3]Steelheart's Champions",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Other",
-        "unitCost" : 100,
+        "unitCost" : 100.0,
         "unitID" : 1117,
         "autoAddDictionary" : { },
+        "startingModels" : 3,
         "listOfCurrencies" : null
       } ],
       "listOfEquipmentOptions" : null,
@@ -108,6 +119,7 @@
       "armyCategories" : [ ]
     } ],
     "gameCategories" : [ "Leader", "Battleline", "Artillery", "Warscroll Battalion", "Behemoth", "Leader & Behemoth", "Other" ],
+    "listOfEquipmentOptions" : null,
     "listOfCurrencies" : [ ]
   } ]
 }
