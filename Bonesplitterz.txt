@@ -95,7 +95,7 @@
           "optionID" : 535,
           "optionName" : "5 Additional Savage Boarboy Maniaks",
           "autoAddDictionary" : { },
-          "modelsAdded" : 1,
+          "modelsAdded" : 5,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
